@@ -1,0 +1,301 @@
+margin___"Normal{Float64}(μ=0.39333878003953116, σ=0.8450267464418006)"___"Normal{Float64}(μ=-4.285489044143608, σ=1.0740170639303295)"___"Normal{Float64}(μ=4.3978891078209585, σ=1.134684210366457)"___"Normal{Float64}(μ=0.5949434464314389, σ=1.4324753231679392)"___"Normal{Float64}(μ=0.3243920935753552, σ=1.3605894410271804)"___"Normal{Float64}(μ=-4.1490145312431395, σ=0.7363902983109157)"___"Normal{Float64}(μ=1.0896538784474135, σ=0.6896301103470673)"___"Normal{Float64}(μ=-2.387126594930689, σ=0.6780655301941345)"___"Normal{Float64}(μ=0.6360757253630125, σ=0.8861466715697571)"___"Normal{Float64}(μ=2.0190122412856777, σ=1.1938964720738323)"___"Normal{Float64}(μ=3.5822584556139327, σ=1.4964422237151689)"___"Normal{Float64}(μ=0.8028406912473657, σ=1.0820390493962473)"___"Normal{Float64}(μ=-1.0908788089284815, σ=0.8611164786511135)"___"Normal{Float64}(μ=0.8342630200065987, σ=1.9359798267713106)"___"Normal{Float64}(μ=-0.9837407530748876, σ=0.5434346536572129)"___"Normal{Float64}(μ=0.13285273841099346, σ=1.0136859268757439)"___"Normal{Float64}(μ=0.8124902210615147, σ=0.6278008727560465)"___"Normal{Float64}(μ=-0.817428413308601, σ=1.1282753976105588)"___"Normal{Float64}(μ=-4.422959122609349, σ=0.6473940681373681)"___"Normal{Float64}(μ=0.1824430445972904, σ=0.9245385983123438)"___"Normal{Float64}(μ=-3.6660499932619195, σ=0.8822159179614576)"___"Normal{Float64}(μ=1.4294319305763759, σ=0.6123021714409216)"___"Normal{Float64}(μ=-1.5537195301046267, σ=1.1867430349936403)"___"Normal{Float64}(μ=3.553526885957046, σ=0.8255515959394918)"___"Normal{Float64}(μ=-2.1090204302732625, σ=1.327222153440348)"___"Normal{Float64}(μ=-0.24779585680337063, σ=0.9826113835753619)"___"Normal{Float64}(μ=0.7095796827740023, σ=1.0001905541272704)"___"Normal{Float64}(μ=-2.3753308748494772, σ=1.0859905180218976)"___"Normal{Float64}(μ=-3.5633466426640625, σ=0.4976008711363637)"___"Normal{Float64}(μ=1.4623484511303027, σ=1.407101589421948)"___"Normal{Float64}(μ=-0.6867324193492156, σ=1.1279154965535978)"___"Normal{Float64}(μ=0.5789136218675494, σ=0.8469363383806898)"___"Normal{Float64}(μ=0.23914325537709413, σ=0.8873118710128767)"___"Normal{Float64}(μ=-1.9697559158239435, σ=0.8063890974783585)"___"Normal{Float64}(μ=0.1614826755995109, σ=1.5828264964596237)"___"Normal{Float64}(μ=0.49229695115350175, σ=2.2884783885572517)"___"Normal{Float64}(μ=3.643855430020197, σ=1.1147831283995286)"___"Normal{Float64}(μ=-1.1580357330461863, σ=0.8316637917890506)"___"Normal{Float64}(μ=1.813718967936252, σ=0.8689863927067409)"___"Normal{Float64}(μ=1.3658599664862974, σ=0.9029279947639058)"___"Normal{Float64}(μ=-1.2710110177730953, σ=1.4855396779503043)"___"Normal{Float64}(μ=-1.958965456774364, σ=0.9459736258367862)"___"Normal{Float64}(μ=2.7818735396706695, σ=0.6823853794786426)"___"Normal{Float64}(μ=-1.712878810847187, σ=1.0263146126243108)"___"Normal{Float64}(μ=-4.338925778610155, σ=1.1901510519719887)"___"Normal{Float64}(μ=-0.3934154369302292, σ=1.0801098298010394)"___"Normal{Float64}(μ=0.6901943744271695, σ=0.9732422565479372)"___"Normal{Float64}(μ=-0.562215211622241, σ=0.9561050214626629)"___"Normal{Float64}(μ=-1.8536023273013214, σ=0.6313695662407984)"___"Normal{Float64}(μ=1.4251930839901747, σ=0.8952905413055947)"___"LogNormal{Float64}(μ=-0.7314513480081822, σ=1.0398901104910019)"___"LogNormal{Float64}(μ=0.3683656543281118, σ=0.6577863524381652)"___"LogNormal{Float64}(μ=1.4581862330243966, σ=0.9059326779816238)"___"LogNormal{Float64}(μ=0.8676104317190257, σ=1.1349657787050014)"___"LogNormal{Float64}(μ=-2.788852567643031, σ=1.1082249519407918)"___"LogNormal{Float64}(μ=-2.481236855107041, σ=1.0186284143593607)"___"LogNormal{Float64}(μ=0.07730620551608125, σ=1.2713768233740588)"___"LogNormal{Float64}(μ=2.0329257723650738, σ=0.9432235537488657)"___"LogNormal{Float64}(μ=18.48022563517155, σ=1.211028806782029)"___"LogNormal{Float64}(μ=2.1164220623609302, σ=0.7352707154949195)"___"LogNormal{Float64}(μ=0.865324590633998, σ=1.1920729128982057)"___"LogNormal{Float64}(μ=-2.3364962780287106, σ=1.203664686812571)"___"LogNormal{Float64}(μ=2.4817186237697118, σ=0.5273720891812752)"___"LogNormal{Float64}(μ=0.10752280673734722, σ=0.9026051198801747)"___"LogNormal{Float64}(μ=1.94530758723469, σ=1.258715921691376)"___"LogNormal{Float64}(μ=0.636758975786345, σ=0.558464141434879)"___"LogNormal{Float64}(μ=-4.604969808800489, σ=1.0081391697514164)"___"LogNormal{Float64}(μ=1.4278772990440411, σ=1.0140866446754717)"___"LogNormal{Float64}(μ=1.5363746528667221, σ=0.902806824598982)"___"LogNormal{Float64}(μ=1.9174424389345481, σ=0.7433229195590816)"___"LogNormal{Float64}(μ=-2.2103985200059086, σ=0.8614749871675802)"___"LogNormal{Float64}(μ=3.0976615632745963, σ=0.7939221557952193)"___"LogNormal{Float64}(μ=-4.208879777559089, σ=0.7915797292188752)"___"LogNormal{Float64}(μ=-0.2862861684917389, σ=0.8674568831971396)"___"LogNormal{Float64}(μ=14.829278470788918, σ=0.8565915612851258)"___"LogNormal{Float64}(μ=0.1828099189014474, σ=0.9261431968822875)"___"LogNormal{Float64}(μ=-0.4750838937074648, σ=0.7519303772320323)"___"LogNormal{Float64}(μ=-1.0399826784645596, σ=0.929360294695093)"___"LogNormal{Float64}(μ=0.5040633672286167, σ=0.8074084237638725)"___"LogNormal{Float64}(μ=0.5740927565105571, σ=0.9477150531380102)"___"LogNormal{Float64}(μ=-1.3162145114761465, σ=0.9084709765560368)"___"LogNormal{Float64}(μ=0.029113000057207992, σ=0.7944851609406184)"___"LogNormal{Float64}(μ=-0.9349392763418655, σ=0.709763125228064)"___"LogNormal{Float64}(μ=-0.9346527175320142, σ=0.8130443484401924)"___"LogNormal{Float64}(μ=-2.238057647265152, σ=0.8587612399458083)"___"LogNormal{Float64}(μ=-0.6946007721735575, σ=1.2247599654460604)"___"LogNormal{Float64}(μ=-1.784518679097391, σ=0.6760222767943022)"___"LogNormal{Float64}(μ=-4.5569391429353, σ=0.8349239740189075)"___"LogNormal{Float64}(μ=0.5426547795050126, σ=0.734948346703059)"___"LogNormal{Float64}(μ=0.38571884932591455, σ=0.659563455263217)"___"LogNormal{Float64}(μ=-3.4431842613587955, σ=0.9507351922958984)"___"LogNormal{Float64}(μ=2.495869504275161, σ=0.8831958573048057)"___"LogNormal{Float64}(μ=2.351275741583887, σ=1.1139366150175425)"___"LogNormal{Float64}(μ=-0.727371176077701, σ=0.7213050935430845)"___"LogNormal{Float64}(μ=-0.30383503561950803, σ=0.749011531939858)"___"LogNormal{Float64}(μ=1.894895399003502, σ=0.8730796209220206)"___"LogNormal{Float64}(μ=2.5020989419710427, σ=1.1913043491452417)"___"LogNormal{Float64}(μ=3.044576370182232, σ=1.1981597058976856)"___"LogNormal{Float64}(μ=-1.3911104760435309, σ=0.778326971153035)"___"LogNormal{Float64}(μ=3.610440765570784, σ=0.727189089060233)"___"UnivariateGMM{Vector{Float64}, Vector{Float64}, Categorical{Float64, Vector{Float64}}}(
+K: 2
+means: [-1.5428208568619581, 1.406610925731029]
+stds: [0.2876010227487289, 10.933043172025144]
+prior: Categorical{Float64, Vector{Float64}}(support=Base.OneTo(2), p=[0.8732672185126278, 0.12673278148737221])
+)
+"___"UnivariateGMM{Vector{Float64}, Vector{Float64}, Categorical{Float64, Vector{Float64}}}(
+K: 2
+means: [0.12511892622062848, 1.446292471727071]
+stds: [0.6760885767468623, 14.457155255974868]
+prior: Categorical{Float64, Vector{Float64}}(support=Base.OneTo(2), p=[0.1328703295818685, 0.8671296704181315])
+)
+"___"UnivariateGMM{Vector{Float64}, Vector{Float64}, Categorical{Float64, Vector{Float64}}}(
+K: 2
+means: [-0.8991980589596996, -0.4873719172630469]
+stds: [1.351310927092512, 7.397129159153505]
+prior: Categorical{Float64, Vector{Float64}}(support=Base.OneTo(2), p=[0.5757167843348298, 0.42428321566517024])
+)
+"___"UnivariateGMM{Vector{Float64}, Vector{Float64}, Categorical{Float64, Vector{Float64}}}(
+K: 2
+means: [-1.1786814993765327, -0.7960787812933439]
+stds: [0.39420879137568093, 4.483965940081633]
+prior: Categorical{Float64, Vector{Float64}}(support=Base.OneTo(2), p=[0.7092138979409521, 0.29078610205904787])
+)
+"___"UnivariateGMM{Vector{Float64}, Vector{Float64}, Categorical{Float64, Vector{Float64}}}(
+K: 2
+means: [2.5916154105111207, 1.1230076336515749]
+stds: [0.34759070727088026, 5.67514771240385]
+prior: Categorical{Float64, Vector{Float64}}(support=Base.OneTo(2), p=[0.3019617819684766, 0.6980382180315234])
+)
+"___"UnivariateGMM{Vector{Float64}, Vector{Float64}, Categorical{Float64, Vector{Float64}}}(
+K: 2
+means: [1.2662198702381804, -0.6537368135513624]
+stds: [1.1936085495794717, 6.363364544131125]
+prior: Categorical{Float64, Vector{Float64}}(support=Base.OneTo(2), p=[0.6728547709527617, 0.3271452290472383])
+)
+"___"UnivariateGMM{Vector{Float64}, Vector{Float64}, Categorical{Float64, Vector{Float64}}}(
+K: 2
+means: [-2.3789907459147175, 0.7468742340886021]
+stds: [0.40237811143242763, 4.4012232007014696]
+prior: Categorical{Float64, Vector{Float64}}(support=Base.OneTo(2), p=[0.4094276500921618, 0.5905723499078381])
+)
+"___"UnivariateGMM{Vector{Float64}, Vector{Float64}, Categorical{Float64, Vector{Float64}}}(
+K: 2
+means: [0.06803209358372475, -1.7989399147422158]
+stds: [0.7442829134169576, 9.15130243552448]
+prior: Categorical{Float64, Vector{Float64}}(support=Base.OneTo(2), p=[0.7693881488565589, 0.23061185114344107])
+)
+"___"UnivariateGMM{Vector{Float64}, Vector{Float64}, Categorical{Float64, Vector{Float64}}}(
+K: 2
+means: [-0.7314900801918792, 0.697891477271512]
+stds: [0.7755821061755777, 12.777145073265697]
+prior: Categorical{Float64, Vector{Float64}}(support=Base.OneTo(2), p=[0.7450721122921967, 0.2549278877078033])
+)
+"___"UnivariateGMM{Vector{Float64}, Vector{Float64}, Categorical{Float64, Vector{Float64}}}(
+K: 2
+means: [2.791082960571105, -0.2120379109768365]
+stds: [0.43548551781660894, 18.13696794882011]
+prior: Categorical{Float64, Vector{Float64}}(support=Base.OneTo(2), p=[0.64190485912251, 0.35809514087748995])
+)
+"___"UnivariateGMM{Vector{Float64}, Vector{Float64}, Categorical{Float64, Vector{Float64}}}(
+K: 2
+means: [0.11845847170394246, -0.5259529249194214]
+stds: [0.5455710127660427, 4.595518093950886]
+prior: Categorical{Float64, Vector{Float64}}(support=Base.OneTo(2), p=[0.6550673868989079, 0.34493261310109213])
+)
+"___"UnivariateGMM{Vector{Float64}, Vector{Float64}, Categorical{Float64, Vector{Float64}}}(
+K: 2
+means: [0.10978798563528225, -1.3705061521989028]
+stds: [0.4040116804697462, 3.7376561793888263]
+prior: Categorical{Float64, Vector{Float64}}(support=Base.OneTo(2), p=[0.8778718051937793, 0.12212819480622072])
+)
+"___"UnivariateGMM{Vector{Float64}, Vector{Float64}, Categorical{Float64, Vector{Float64}}}(
+K: 2
+means: [0.19793431514178517, 0.4759886540392039]
+stds: [0.47829636659034674, 13.090438786161396]
+prior: Categorical{Float64, Vector{Float64}}(support=Base.OneTo(2), p=[0.826679625497858, 0.173320374502142])
+)
+"___"UnivariateGMM{Vector{Float64}, Vector{Float64}, Categorical{Float64, Vector{Float64}}}(
+K: 2
+means: [0.20527986913662818, 0.7548143853093234]
+stds: [1.3215608671770578, 3.003673789733693]
+prior: Categorical{Float64, Vector{Float64}}(support=Base.OneTo(2), p=[0.4935670484751836, 0.5064329515248164])
+)
+"___"UnivariateGMM{Vector{Float64}, Vector{Float64}, Categorical{Float64, Vector{Float64}}}(
+K: 2
+means: [-0.7581531954715396, 1.196197000391681]
+stds: [0.6607340816881436, 10.899927610625522]
+prior: Categorical{Float64, Vector{Float64}}(support=Base.OneTo(2), p=[0.8656762174282252, 0.1343237825717748])
+)
+"___"UnivariateGMM{Vector{Float64}, Vector{Float64}, Categorical{Float64, Vector{Float64}}}(
+K: 2
+means: [-0.6684851149155798, -0.5339000087970138]
+stds: [1.1561599353171454, 4.318591690700744]
+prior: Categorical{Float64, Vector{Float64}}(support=Base.OneTo(2), p=[0.46661435326204337, 0.5333856467379566])
+)
+"___"UnivariateGMM{Vector{Float64}, Vector{Float64}, Categorical{Float64, Vector{Float64}}}(
+K: 2
+means: [-0.6472311698931957, 0.8015931129614573]
+stds: [0.7696735444099998, 4.3334061486407]
+prior: Categorical{Float64, Vector{Float64}}(support=Base.OneTo(2), p=[0.5126540483864761, 0.4873459516135239])
+)
+"___"UnivariateGMM{Vector{Float64}, Vector{Float64}, Categorical{Float64, Vector{Float64}}}(
+K: 2
+means: [0.9601450852954033, -1.9135434050787044]
+stds: [0.7165553412780468, 6.2816412676854325]
+prior: Categorical{Float64, Vector{Float64}}(support=Base.OneTo(2), p=[0.054946329592110134, 0.9450536704078899])
+)
+"___"UnivariateGMM{Vector{Float64}, Vector{Float64}, Categorical{Float64, Vector{Float64}}}(
+K: 2
+means: [1.6507190947509294, 0.9788105601316375]
+stds: [0.719653984362558, 31.847896333866583]
+prior: Categorical{Float64, Vector{Float64}}(support=Base.OneTo(2), p=[0.6459321370910097, 0.3540678629089903])
+)
+"___"UnivariateGMM{Vector{Float64}, Vector{Float64}, Categorical{Float64, Vector{Float64}}}(
+K: 2
+means: [1.2725078856397565, -2.3662203486872904]
+stds: [0.5320144137817644, 7.159481003499619]
+prior: Categorical{Float64, Vector{Float64}}(support=Base.OneTo(2), p=[0.07076791997839842, 0.9292320800216016])
+)
+"___"UnivariateGMM{Vector{Float64}, Vector{Float64}, Categorical{Float64, Vector{Float64}}}(
+K: 2
+means: [-0.18066344305909918, 1.4150880000895558]
+stds: [1.9736879807440615, 9.732405662721776]
+prior: Categorical{Float64, Vector{Float64}}(support=Base.OneTo(2), p=[0.39099053323815175, 0.6090094667618482])
+)
+"___"UnivariateGMM{Vector{Float64}, Vector{Float64}, Categorical{Float64, Vector{Float64}}}(
+K: 2
+means: [-0.5226224158993695, -1.6345160568383927]
+stds: [1.6142581076949474, 4.47620193170343]
+prior: Categorical{Float64, Vector{Float64}}(support=Base.OneTo(2), p=[0.4341532985517007, 0.5658467014482993])
+)
+"___"UnivariateGMM{Vector{Float64}, Vector{Float64}, Categorical{Float64, Vector{Float64}}}(
+K: 2
+means: [-0.5399630956207381, 0.051312189020461266]
+stds: [0.3683427843858335, 3.959944971579557]
+prior: Categorical{Float64, Vector{Float64}}(support=Base.OneTo(2), p=[0.5801662650136692, 0.4198337349863308])
+)
+"___"UnivariateGMM{Vector{Float64}, Vector{Float64}, Categorical{Float64, Vector{Float64}}}(
+K: 2
+means: [1.9365325119258074, -0.4908389115954957]
+stds: [0.658341235487701, 4.754590151790838]
+prior: Categorical{Float64, Vector{Float64}}(support=Base.OneTo(2), p=[0.7044199409020665, 0.2955800590979335])
+)
+"___"UnivariateGMM{Vector{Float64}, Vector{Float64}, Categorical{Float64, Vector{Float64}}}(
+K: 2
+means: [0.18157238138272944, 0.2816816813032734]
+stds: [0.7021871706735062, 22.025424418314387]
+prior: Categorical{Float64, Vector{Float64}}(support=Base.OneTo(2), p=[0.9169068534009639, 0.0830931465990361])
+)
+"___"UnivariateGMM{Vector{Float64}, Vector{Float64}, Categorical{Float64, Vector{Float64}}}(
+K: 2
+means: [-1.6724653646879581, 3.6859330107565054]
+stds: [0.4182743880351767, 0.570192065517661]
+prior: Categorical{Float64, Vector{Float64}}(support=Base.OneTo(2), p=[0.8065128617081909, 0.19348713829180908])
+)
+"___"UnivariateGMM{Vector{Float64}, Vector{Float64}, Categorical{Float64, Vector{Float64}}}(
+K: 2
+means: [-1.755657702210589, 5.61274244130516]
+stds: [1.4134150690831002, 0.8095539906676795]
+prior: Categorical{Float64, Vector{Float64}}(support=Base.OneTo(2), p=[0.4306404456378928, 0.5693595543621073])
+)
+"___"UnivariateGMM{Vector{Float64}, Vector{Float64}, Categorical{Float64, Vector{Float64}}}(
+K: 2
+means: [-0.5063282939048888, 2.909838880747544]
+stds: [0.5879016054309965, 1.320130915998507]
+prior: Categorical{Float64, Vector{Float64}}(support=Base.OneTo(2), p=[0.3323344916394556, 0.6676655083605444])
+)
+"___"UnivariateGMM{Vector{Float64}, Vector{Float64}, Categorical{Float64, Vector{Float64}}}(
+K: 2
+means: [0.3428041616542466, 4.159958538128502]
+stds: [0.9425688633453763, 0.8352194652367786]
+prior: Categorical{Float64, Vector{Float64}}(support=Base.OneTo(2), p=[0.07075986196489856, 0.9292401380351014])
+)
+"___"UnivariateGMM{Vector{Float64}, Vector{Float64}, Categorical{Float64, Vector{Float64}}}(
+K: 2
+means: [1.0505954418481567, 4.668412768835053]
+stds: [1.727125559888044, 0.20904989541687147]
+prior: Categorical{Float64, Vector{Float64}}(support=Base.OneTo(2), p=[0.7183289701636713, 0.28167102983632875])
+)
+"___"UnivariateGMM{Vector{Float64}, Vector{Float64}, Categorical{Float64, Vector{Float64}}}(
+K: 2
+means: [0.13370705084778775, 5.4990656372197515]
+stds: [0.9187824463834151, 3.5567149063390695]
+prior: Categorical{Float64, Vector{Float64}}(support=Base.OneTo(2), p=[0.19948248044085426, 0.8005175195591457])
+)
+"___"UnivariateGMM{Vector{Float64}, Vector{Float64}, Categorical{Float64, Vector{Float64}}}(
+K: 2
+means: [0.13781050569384218, 5.454981509268362]
+stds: [0.5752282421020425, 0.7496958270230938]
+prior: Categorical{Float64, Vector{Float64}}(support=Base.OneTo(2), p=[0.15663522808503438, 0.8433647719149656])
+)
+"___"UnivariateGMM{Vector{Float64}, Vector{Float64}, Categorical{Float64, Vector{Float64}}}(
+K: 2
+means: [1.4629460716164624, 5.12170895948168]
+stds: [0.8249775659092001, 0.6180400127691174]
+prior: Categorical{Float64, Vector{Float64}}(support=Base.OneTo(2), p=[0.7710595251521646, 0.22894047484783542])
+)
+"___"UnivariateGMM{Vector{Float64}, Vector{Float64}, Categorical{Float64, Vector{Float64}}}(
+K: 2
+means: [0.8498744338426535, 4.681506314470479]
+stds: [0.39406833464331303, 0.9287758243110312]
+prior: Categorical{Float64, Vector{Float64}}(support=Base.OneTo(2), p=[0.7878194178406563, 0.21218058215934366])
+)
+"___"UnivariateGMM{Vector{Float64}, Vector{Float64}, Categorical{Float64, Vector{Float64}}}(
+K: 2
+means: [-0.14029725571148863, 3.8653766444196336]
+stds: [2.345965558872096, 0.8122200159728807]
+prior: Categorical{Float64, Vector{Float64}}(support=Base.OneTo(2), p=[0.7157012874726293, 0.2842987125273707])
+)
+"___"UnivariateGMM{Vector{Float64}, Vector{Float64}, Categorical{Float64, Vector{Float64}}}(
+K: 2
+means: [0.5368990139077483, 4.542377853354655]
+stds: [0.8237790478364316, 0.5283294442789035]
+prior: Categorical{Float64, Vector{Float64}}(support=Base.OneTo(2), p=[0.8065339048842592, 0.19346609511574075])
+)
+"___"UnivariateGMM{Vector{Float64}, Vector{Float64}, Categorical{Float64, Vector{Float64}}}(
+K: 2
+means: [-1.9727964531107833, 2.2132365560558602]
+stds: [0.637441708496665, 0.5352387876934457]
+prior: Categorical{Float64, Vector{Float64}}(support=Base.OneTo(2), p=[0.4847938082963662, 0.5152061917036338])
+)
+"___"UnivariateGMM{Vector{Float64}, Vector{Float64}, Categorical{Float64, Vector{Float64}}}(
+K: 2
+means: [-1.5488088773528839, 2.3098374245202136]
+stds: [0.7719991347112402, 2.222607765959979]
+prior: Categorical{Float64, Vector{Float64}}(support=Base.OneTo(2), p=[0.09259186617174417, 0.9074081338282558])
+)
+"___"UnivariateGMM{Vector{Float64}, Vector{Float64}, Categorical{Float64, Vector{Float64}}}(
+K: 2
+means: [1.1769380114238197, 3.8297153947302136]
+stds: [0.45576786182783136, 0.8601744974948954]
+prior: Categorical{Float64, Vector{Float64}}(support=Base.OneTo(2), p=[0.23726019799006937, 0.7627398020099306])
+)
+"___"UnivariateGMM{Vector{Float64}, Vector{Float64}, Categorical{Float64, Vector{Float64}}}(
+K: 2
+means: [-0.04053576143580959, 3.43400997458505]
+stds: [0.5619161900185287, 0.6419783551809746]
+prior: Categorical{Float64, Vector{Float64}}(support=Base.OneTo(2), p=[0.11611852361422667, 0.8838814763857733])
+)
+"___"UnivariateGMM{Vector{Float64}, Vector{Float64}, Categorical{Float64, Vector{Float64}}}(
+K: 2
+means: [0.5224966426165316, 3.8936375699654513]
+stds: [1.927546816496473, 0.4810451998023833]
+prior: Categorical{Float64, Vector{Float64}}(support=Base.OneTo(2), p=[0.5045580741849631, 0.4954419258150369])
+)
+"___"UnivariateGMM{Vector{Float64}, Vector{Float64}, Categorical{Float64, Vector{Float64}}}(
+K: 2
+means: [0.25401753489089535, 4.155600621441111]
+stds: [0.6948823480045936, 0.3943746032984998]
+prior: Categorical{Float64, Vector{Float64}}(support=Base.OneTo(2), p=[0.19047283013487182, 0.8095271698651282])
+)
+"___"UnivariateGMM{Vector{Float64}, Vector{Float64}, Categorical{Float64, Vector{Float64}}}(
+K: 2
+means: [1.0522062104011622, 3.7639243659848454]
+stds: [0.3973872406443541, 0.6209855506201964]
+prior: Categorical{Float64, Vector{Float64}}(support=Base.OneTo(2), p=[0.36201492957127, 0.63798507042873])
+)
+"___"UnivariateGMM{Vector{Float64}, Vector{Float64}, Categorical{Float64, Vector{Float64}}}(
+K: 2
+means: [1.1074640609815527, 1.8921165110961087]
+stds: [1.3160254294785754, 0.6107299201861142]
+prior: Categorical{Float64, Vector{Float64}}(support=Base.OneTo(2), p=[0.5227843675751129, 0.47721563242488707])
+)
+"___"UnivariateGMM{Vector{Float64}, Vector{Float64}, Categorical{Float64, Vector{Float64}}}(
+K: 2
+means: [-1.0385563469992627, 2.3298084143667426]
+stds: [0.6972421076008996, 0.5778470212203912]
+prior: Categorical{Float64, Vector{Float64}}(support=Base.OneTo(2), p=[0.4687083954003821, 0.5312916045996179])
+)
+"___"UnivariateGMM{Vector{Float64}, Vector{Float64}, Categorical{Float64, Vector{Float64}}}(
+K: 2
+means: [-0.4669275351614622, 4.051026701513585]
+stds: [0.8501928370540744, 5.092121014281005]
+prior: Categorical{Float64, Vector{Float64}}(support=Base.OneTo(2), p=[0.5259126107761114, 0.4740873892238886])
+)
+"___"UnivariateGMM{Vector{Float64}, Vector{Float64}, Categorical{Float64, Vector{Float64}}}(
+K: 2
+means: [0.5635831847320465, 3.028654037059488]
+stds: [0.5494033991647856, 0.7676777313878572]
+prior: Categorical{Float64, Vector{Float64}}(support=Base.OneTo(2), p=[0.428704248388285, 0.571295751611715])
+)
+"___"UnivariateGMM{Vector{Float64}, Vector{Float64}, Categorical{Float64, Vector{Float64}}}(
+K: 2
+means: [-0.5718276562172026, 3.3212006412084856]
+stds: [0.648105463853406, 0.4196320487094149]
+prior: Categorical{Float64, Vector{Float64}}(support=Base.OneTo(2), p=[0.5158975745096602, 0.48410242549033977])
+)
+"___"UnivariateGMM{Vector{Float64}, Vector{Float64}, Categorical{Float64, Vector{Float64}}}(
+K: 2
+means: [-1.0293033770659934, 3.9848524355499726]
+stds: [0.5120934340490093, 0.9373534386535116]
+prior: Categorical{Float64, Vector{Float64}}(support=Base.OneTo(2), p=[0.14845302142417954, 0.8515469785758205])
+)
+"___"UnivariateGMM{Vector{Float64}, Vector{Float64}, Categorical{Float64, Vector{Float64}}}(
+K: 2
+means: [1.2802507724563552, 5.56992772162984]
+stds: [0.5866135497598464, 0.5459883000138597]
+prior: Categorical{Float64, Vector{Float64}}(support=Base.OneTo(2), p=[0.8366288672895266, 0.16337113271047343])
+)
+"___
